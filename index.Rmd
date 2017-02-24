@@ -1,0 +1,64 @@
+---
+title: "Welcome to my website!"
+output: 
+  html_document:
+    theme: spacelab
+    toc: true
+    toc_depth: 4
+    toc_float: 
+      collapsed: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## I'm Leslie Huang
+
+I'm a quantitative political scientist with an interest in data science. I work in Python and R (and occasionally Stata). I am interested in data analysis with causal inference done right, and in text analysis, especially sentiment analysis and topic modelling.
+
+I've gathered some of my projects here on this website. Additionally, I am putting together a set of short tutorials for data analysis in R and Python.
+
+To look at my works in progress, visit my <a href="https://github.com/leslie-huang">Github</a>.
+
+You can also find me on <a href="https://www.linkedin.com/in/huangleslie">LinkedIn</a>.
+
+## My projects
+
+### Estimating ideology of Supreme Court opinions
+
+I scraped Supreme Court opinions from 2003-2015 using Python. Using the Martin-Quinn ideology scores for justices, I selected 100 anchor texts for liberal and conservative, respectively. With these anchor texts, I used Laver, Benoit, and Garry's Wordscores method to estimate ideological positions for the remaining opinions in R.
+
+See the repo <a href="https://github.com/leslie-huang/supreme-court-opinion-wordscores">here</a>.
+
+### Sentiment analysis of FARC-Colombia negotiations
+
+Can we predict the direction of peace negotiations by using sentiment analysis? I use a Markov model to estimate whether documents released by either side during peace talks are "responding" to the sentiment of the other side. I also use hidden Markov models to "uncover" the willingness of parties to negotiate -- a property they are likely to conceal in order to "drive a hard bargain" -- from the sentiment of their texts. 
+
+For this project, I also constructed a novel dataset of webscraped documents from the official websites of FARC, the Colombian president, and the peace negotiators using Python. The main analysis was done in R.
+
+See the repo <a href="https://github.com/leslie-huang/MA-thesis-analysis">here</a>.
+
+
+### NYC restaurant grades visualizer
+
+I built a tool in Python that provides users with efficient visualizations of health inspection grades from the NYC Department of Health. The user can view a restaurant's grades over time and compare that restaurant with others in the same neighborhood or category. The user can also search for the restaurant with the fewest (or most) health code violations in a given neighborhood or category.
+
+See the repo <a href="https://github.com/leslie-huang/restaurant-inspection-grades-visualizer">here</a>.
+
+### Coalition formation in civil wars
+
+Why do rebel groups fight each other as well as the government they're seeking to overthrow? This project explores the relationship between a rebel group's military capacity and its likelihood of forming coalitions with other rebel groups. I performed a series of probit regressions in Stata to test this hypothesis.
+
+See the repo <a href="https://github.com/leslie-huang/rebel-coalition-formation-replication">here</a>.
+
+## R tutorials
+
+Coming soon
+
+
+## Python tutorials
+
+Coming soon
+
+*Last updated February 24, 2017*
