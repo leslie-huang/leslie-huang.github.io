@@ -253,7 +253,7 @@ div.tocify {
 ## 4        1      1 female  35     1     0 53.1000  C123        S
 ## 5        0      3   male  35     0     0  8.0500              S
 ## 6        0      3   male  NA     0     0  8.4583              Q</code></pre>
-<p>Looks like there are some blank values in the <code>Cabin</code> field that should be converted to NA. This could be solved by applying Regex to the dataframe, but it’s much easier to just go back and specify it in the <code>read.csv</code> command.</p>
+<p>Looks like there are some blank values in the <code>Cabin</code> field that should be converted to <code>NA</code>. This could be solved by applying Regex to the dataframe, but it’s much easier to just go back and specify it in the <code>read.csv</code> command.</p>
 <pre class="r"><code>read.csv(&quot;train.csv&quot;, stringsAsFactors = FALSE, na.strings = &quot;&quot;)</code></pre>
 <pre><code>##   Survived Pclass    Sex Age SibSp Parch    Fare Cabin Embarked
 ## 1        0      3   male  22     1     0  7.2500  &lt;NA&gt;        S
