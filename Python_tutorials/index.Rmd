@@ -1,0 +1,29 @@
+---
+title: "Python Tutorials"
+output: 
+  html_document:
+    theme: spacelab
+    toc: true
+    toc_depth: 2
+    toc_float: 
+      collapsed: false
+---
+```{r setup, include=FALSE}
+
+```
+
+<a href="../index.html">Back to my homepage.</a>
+
+These tutorials will show you how to get started doing data analysis and machine learning in Python. I utilize some staples: matplotlib, numpy, pandas, and scipy/scikit.
+
+## Numpy and Pandas
+
+* Importing data
+* Series and DataFrame
+* Subsetting data
+
+## Machine learning
+
+* Text analysis pre-processing
+* K-means clustering
+* Topic modelling

@@ -229,7 +229,7 @@ div.tocify {
 <hr />
 <div id="what-i-do" class="section level3">
 <h3>What I do</h3>
-<p>I’m a quantitative political scientist with a focus on data science. I work in Python and R (and occasionally Stata). I am interested in data analysis with causal inference done right, and in text analysis, especially sentiment analysis and topic modelling.</p>
+<p>I’m a quantitative political scientist with a focus on data science. I work in Python and R (and occasionally Stata). Most of my research and side projects involve text analysis and NLP – especially sentiment analysis, topic modelling, and other unsupervised machine learning approaches. I’m interested in data analysis, especially causal inference.</p>
 </div>
 <div id="who-i-am" class="section level3">
 <h3>Who I am</h3>
@@ -239,19 +239,28 @@ div.tocify {
 <div id="where-to-find-me" class="section level3">
 <h3>Where to find me</h3>
 <ul>
-<li><p>To look at my works in progress, visit my <a href="https://github.com/leslie-huang">GitHub</a>.</p></li>
+<li><p>To Check out my works in progress, visit my <a href="https://github.com/leslie-huang">GitHub</a>.</p></li>
 <li><p>You can find me on <a href="https://www.linkedin.com/in/huangleslie">LinkedIn</a>.</p></li>
 </ul>
+</div>
+<div id="what-im-up-to" class="section level3">
+<h3>What I’m up to</h3>
+<p>I’m working on a couple cool projects right now:</p>
+<ul>
+<li>Exploring a massive dataset of food reviews from Amazon.com with k-means clustering</li>
+<li>Scraping Twitter and using network graphs to visualize how users are connected, in order to understand how “viral” tweets spread</li>
+</ul>
+<p>Check out these works in progress, in addition to my completed projects, in the section below!</p>
 </div>
 </div>
 <div id="my-projects" class="section level1">
 <h1><em>My projects</em></h1>
 <hr />
-<p>I’ve put together an overview of my projects. Check my <a href="https://github.com/leslie-huang">GitHub</a> for all the latest updates!</p>
+<p>I’ve put together an overview of my projects. Check my <a href="https://github.com/leslie-huang">GitHub</a> for the latest updates!</p>
 <div id="sentiment-analysis-of-farc-colombia-negotiations" class="section level3">
 <h3>Sentiment analysis of FARC-Colombia negotiations</h3>
-<p>Can sentiment analysis predict whether peace talks will fail or succeed? I use a Markov model to estimate whether documents released by the FARC or the government during peace talks are “responding” to the sentiment of the other side. I also use hidden Markov models to “uncover” the willingness of parties to negotiate from the sentiment of their texts.</p>
-<p>For this project, I also constructed an original corpus of webscraped documents from the official websites of FARC, the Colombian president, and the peace negotiators using Python. The main analysis was done in R.</p>
+<p>Can sentiment analysis predict whether peace talks will fail or succeed? Do the statements published by either side during peace talks reveal their willingness to negotiate? Using the statements published by the FARC and the Colombian government, I made a dynamic model that estimates whether each side is hardline or conciliatory during the peace negotiations. I also estimate whether sentiment responds to sentiment – for instance, does a hardline statement predict a hardline response?</p>
+<p>For this project, I constructed an original Spanish-language corpus of documents scraped from the official websites of the guerrilla group FARC, the president of Colombia, and the peace negotiators using Python. The main analysis was done in R.</p>
 <ul>
 <li><p>See the repos <a href="https://github.com/leslie-huang/MA-thesis-analysis">here</a> (for the main analyis) and <a href="https://github.com/leslie-huang/MA-thesis-scrapers">here</a> (for the scrapers).</p></li>
 <li><p>See a version of this paper, which was submitted as part of my PhD coursework and was awarded unanimous “high pass” grades, <a href="https://leslie-huang.github.io/MA_paper.pdf">here</a>.</p></li>
@@ -266,23 +275,30 @@ div.tocify {
 <li><p>See the repo <a href="https://github.com/leslie-huang/restaurant-inspection-grades-visualizer">here</a>.</p></li>
 </ul>
 </div>
-<div id="antarctica-treaties" class="section level3">
-<h3>Antarctica treaties</h3>
-<p>As a research assistant, I am currently applying unsupervised machine learning techniques to a dataset of documents pertaining to Antarctica. I cleaned and created the dataset in Python. The bulk of my analysis is done using the <code>stm</code> package in R, with data preparation done using <code>quanteda</code>.</p>
+<div id="topic-models-of-antarctica" class="section level3">
+<h3>Topic models of Antarctica</h3>
+<p>(In progress.) As a research assistant, I am applying unsupervised machine learning techniques to a dataset of documents pertaining to Antarctica. I cleaned and created the dataset in Python. The bulk of my analysis is done using the <code>stm</code> package in R, with pre-processing done using <code>quanteda</code>.</p>
 <p>(Files not available to public.)</p>
 </div>
 <div id="twitter-network-data-scraper" class="section level3">
 <h3>Twitter network data scraper</h3>
-<p>(Work in progress) I wrote some scripts to scrape information about a Twitter user’s followers and those followers’ followers, in order to model networks between social media users.</p>
+<p>(In progress.) I wrote some scripts to scrape information about a Twitter user’s followers and those followers’ followers, in order to model networks between social media users.</p>
 <ul>
 <li>See the Python repo <a href="https://github.com/leslie-huang/twitter-ssscraper">here</a>, and the R repo <a href="https://github.com/leslie-huang/twitter-scrapeR">here</a>.</li>
 </ul>
 </div>
-<div id="estimating-ideology-of-supreme-court-opinions" class="section level3">
-<h3>Estimating ideology of Supreme Court opinions</h3>
-<p>I scraped Supreme Court opinions from 2003-2015 and constructed a novel dataset using Python. Using the Martin-Quinn ideology scores for justices, I selected 100 liberal and conservative “anchor” texts (similar to a training set). With these anchor texts, I used Laver, Benoit, and Garry’s Wordscores method to estimate ideological positions for the remaining opinions in R.</p>
+<div id="using-naive-bayes-style-techniques-to-estimate-supreme-court-ideology" class="section level3">
+<h3>Using Naive Bayes-style techniques to estimate Supreme Court ideology</h3>
+<p>I scraped Supreme Court opinions from 2003-2015 and constructed a novel dataset using Python. I used the “Wordscores” method, which is similar to Naive Bayes classification. Using ideologically extreme “anchor” texts to train the model, I estimated ideological positions for the remaining opinions and constructed aggregate scores for each justice. These machine-coded ideology scores strongly correlated with the scores assigned to the justices by expert coders.</p>
 <ul>
 <li>See the repo <a href="https://github.com/leslie-huang/supreme-court-opinion-wordscores">here</a>.</li>
+</ul>
+</div>
+<div id="k-means-clustering-of-amazon-food-reviews" class="section level3">
+<h3>K-means clustering of Amazon food reviews</h3>
+<p>(In progress.) I’m using k-means clustering to explore more than half a million food reviews from Amazon (data from Kaggle).</p>
+<ul>
+<li>See the repo <a href="https://github.com/leslie-huang/cluster-food">here</a>.</li>
 </ul>
 </div>
 <div id="coalition-formation-in-civil-wars" class="section level3">
@@ -296,74 +312,19 @@ div.tocify {
 <div id="tutorials" class="section level1">
 <h1><em>Tutorials</em></h1>
 <hr />
-<div id="r" class="section level2">
-<h2>R</h2>
-<p>These tutorials will show you how to get started doing data analysis and machine learning in R. I utilize some of my favorite R packages: <code>ggplot2</code>, <code>dplyr</code>, and <code>quanteda</code>.</p>
-<p>Basics:</p>
+<p>I’m currently working a set of tutorials on data analysis in R and Python, in addition to introductory materials on NLP/text analysis.</p>
+<div id="r" class="section level3">
+<h3>R</h3>
 <ul>
-<li><a href="R_tutorials/csv.html">Getting started: importing data from a CSV</a></li>
-<li>Getting started: importing data from JSON</li>
-<li><a href="R_tutorials/checkingtype.html">Checking and changing data types</a></li>
-<li><a href="R_tutorials/factors.html">Make factor variables and find the levels of your factors</a></li>
-<li>Making strings into Date/Time objects</li>
-<li>Paste</li>
-<li>Formula</li>
-<li>Saving/exporting data</li>
-</ul>
-<p>Data wrangling:</p>
-<ul>
-<li>Subsetting your data</li>
-<li>Filtering based on values and conditions (e.g. NA, zero)</li>
-<li>Create a boolean or indicator variable based on value of another variable</li>
-<li>Concatenating two string variables into one</li>
-<li>Finding the most common values</li>
-<li>Counting how often values appear</li>
-<li>Getting the unique values (sets)</li>
-<li>Getting a random sample of your data for bootstrapping</li>
-<li>Searching and replacing with regex</li>
-<li>Merge two dataframes</li>
-<li>Sorting values</li>
-</ul>
-<p>Functions and why they’re great:</p>
-<ul>
-<li>Functions</li>
-<li>R’s equivalents of Map, Filter, and Reduce</li>
-<li>Assign and get</li>
-<li>Return and the global assignment operator</li>
-</ul>
-<p>Analysis:</p>
-<ul>
-<li>Linear regression</li>
-</ul>
-<p>Visualization:</p>
-<ul>
-<li>Making basic graphs with base R</li>
-<li>ggplot2 graphs: bar</li>
-<li>ggplot2 graphs: histogram</li>
-<li>ggplot2 graphs: scatter</li>
-<li>ggplot2 graphs: line (continuous)</li>
-<li>ggplot2 graphs: line (discrete)</li>
-<li>Smoothing plots on ggplot</li>
-<li>Arranging bar graphs or discrete line graphs in order</li>
-<li>Saving and exporting graphs</li>
-</ul>
-<p>Text analysis:</p>
-<ul>
-<li>Getting started: import a corpus and metadata</li>
-<li>Pre-processing</li>
-<li>Making a document feature matrix aka document term matrix</li>
-<li>Subsetting a DFM</li>
-<li>Extracting summary statistics about your corpus/DFM</li>
-<li>PCA</li>
-<li>Topic modelling</li>
-<li>Structural topic modelling</li>
+<li><a href="R_tutorials/index.html">R tutorials</a></li>
 </ul>
 </div>
-<div id="python" class="section level2">
-<h2>Python</h2>
-<p>These tutorials will show you how to get started doing data analysis and machine learning in Python. I utilize some staples: matplotlib, numpy, pandas, and scipy/scikit.</p>
-<p>Coming soon</p>
-<p><em>Last updated March 28, 2017</em></p>
+<div id="python" class="section level3">
+<h3>Python</h3>
+<ul>
+<li><A href="Python_tutorials/index.html">Python tutorials</a></li>
+</ul>
+<p><em>Last updated April 4, 2017</em></p>
 </div>
 </div>
 

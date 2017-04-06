@@ -13,52 +13,103 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## I'm Leslie Huang
+## I'm Leslie Huang.
+***
 
-I'm a quantitative political scientist with an interest in data science. I work in Python and R (and occasionally Stata). I am interested in data analysis with causal inference done right, and in text analysis, especially sentiment analysis and topic modelling.
+### What I do
 
-I've gathered some of my projects here on this website. Additionally, I am putting together a set of short tutorials for data analysis in R and Python.
+I'm a quantitative political scientist with a focus on data science. I work in Python and R (and occasionally Stata). Most of my research and side projects involve text analysis and NLP -- especially sentiment analysis, topic modelling, and other unsupervised machine learning approaches. I'm interested in data analysis, especially causal inference.
 
-To look at my works in progress, visit my <a href="https://github.com/leslie-huang">Github</a>.
+### Who I am
 
-You can also find me on <a href="https://www.linkedin.com/in/huangleslie">LinkedIn</a>.
+I have a BA, summa cum laude, from Columbia University in political science and English literature. I am currently a political science PhD student at NYU. 
 
-## My projects
+Prior to grad school, I held editorial and managerial roles at a nonprofit (the Foreign Policy Association) and at a book publisher (W. W. Norton).
 
-### Estimating ideology of Supreme Court opinions
+### Where to find me
 
-I scraped Supreme Court opinions from 2003-2015 using Python. Using the Martin-Quinn ideology scores for justices, I selected 100 anchor texts for liberal and conservative, respectively. With these anchor texts, I used Laver, Benoit, and Garry's Wordscores method to estimate ideological positions for the remaining opinions in R.
+* To Check out my works in progress, visit my <a href="https://github.com/leslie-huang">GitHub</a>.
 
-See the repo <a href="https://github.com/leslie-huang/supreme-court-opinion-wordscores">here</a>.
+* You can find me on <a href="https://www.linkedin.com/in/huangleslie">LinkedIn</a>.
+
+### What I'm up to
+
+I'm working on a couple cool projects right now:
+
+* Exploring a massive dataset of food reviews from Amazon.com with k-means clustering
+* Scraping Twitter and using network graphs to visualize how users are connected, in order to understand how "viral" tweets spread
+
+Check out these works in progress, in addition to my completed projects, in the section below!
+
+# _My projects_
+***
+
+I've put together an overview of my projects. Check my <a href="https://github.com/leslie-huang">GitHub</a> for the latest updates!
 
 ### Sentiment analysis of FARC-Colombia negotiations
 
-Can we predict the direction of peace negotiations by using sentiment analysis? I use a Markov model to estimate whether documents released by either side during peace talks are "responding" to the sentiment of the other side. I also use hidden Markov models to "uncover" the willingness of parties to negotiate -- a property they are likely to conceal in order to "drive a hard bargain" -- from the sentiment of their texts. 
+Can sentiment analysis predict whether peace talks will fail or succeed? Do the statements published by either side during peace talks reveal their willingness to negotiate? Using the statements published by the FARC and the Colombian government, I made a dynamic model that estimates whether each side is hardline or conciliatory during the peace negotiations. I also estimate whether sentiment responds to sentiment -- for instance, does a hardline statement predict a hardline response?
 
-For this project, I also constructed a novel dataset of webscraped documents from the official websites of FARC, the Colombian president, and the peace negotiators using Python. The main analysis was done in R.
+For this project, I constructed an original Spanish-language corpus of documents scraped from the official websites of the guerrilla group FARC, the president of Colombia, and the peace negotiators using Python. The main analysis was done in R.
 
-See the repo <a href="https://github.com/leslie-huang/MA-thesis-analysis">here</a>.
+* See the repos <a href="https://github.com/leslie-huang/MA-thesis-analysis">here</a> (for the main analyis) and <a href="https://github.com/leslie-huang/MA-thesis-scrapers">here</a> (for the scrapers).
 
+* See a version of this paper, which was submitted as part of my PhD coursework and was awarded unanimous "high pass" grades, <a href="https://leslie-huang.github.io/MA_paper.pdf">here</a>.
+
+* I am currently working on refactoring this code into an R package (current version is <a href="https://github.com/leslie-huang/MApkg">here</a>).
 
 ### NYC restaurant grades visualizer
 
-I built a tool in Python that provides users with efficient visualizations of health inspection grades from the NYC Department of Health. The user can view a restaurant's grades over time and compare that restaurant with others in the same neighborhood or category. The user can also search for the restaurant with the fewest (or most) health code violations in a given neighborhood or category.
+I built an interactive tool in Python that provides users with efficient visualizations of health inspection grades from the NYC Department of Health. The user can view a restaurant's grades over time and compare that restaurant with others in the same neighborhood or category. The user can also search for the restaurant with the fewest (or most) health code violations in a given neighborhood or category.
 
-See the repo <a href="https://github.com/leslie-huang/restaurant-inspection-grades-visualizer">here</a>.
+* Check out a demo of the program and its visualization options <a href="https://leslie-huang.github.io/restaurant_demo/Using_the_restaurant_grades_visualizer.html">here</a>.
+
+* See the repo <a href="https://github.com/leslie-huang/restaurant-inspection-grades-visualizer">here</a>.
+
+### Topic models of Antarctica
+
+(In progress.) As a research assistant, I am applying unsupervised machine learning techniques to a dataset of documents pertaining to Antarctica. I cleaned and created the dataset in Python. The bulk of my analysis is done using the `stm` package in R, with pre-processing done using `quanteda`. 
+
+(Files not available to public.)
+
+### Twitter network data scraper
+
+(In progress.) I wrote some scripts to scrape information about a Twitter user's followers and those followers' followers, in order to model networks between social media users.
+
+* See the Python repo <a href="https://github.com/leslie-huang/twitter-ssscraper">here</a>, and the R repo <a href="https://github.com/leslie-huang/twitter-scrapeR">here</a>.
+
+### Using Naive Bayes-style techniques to estimate Supreme Court ideology
+
+I scraped Supreme Court opinions from 2003-2015 and constructed a novel dataset using Python. I used the "Wordscores" method, which is similar to Naive Bayes classification. Using ideologically extreme "anchor" texts to train the model, I estimated ideological positions for the remaining opinions and constructed aggregate scores for each justice. These machine-coded ideology scores strongly correlated with the scores assigned to the justices by expert coders.
+
+* See the repo <a href="https://github.com/leslie-huang/supreme-court-opinion-wordscores">here</a>.
+
+### K-means clustering of Amazon food reviews
+
+(In progress.) I'm using k-means clustering to explore more than half a million food reviews from Amazon (data from Kaggle).
+
+* See the repo <a href="https://github.com/leslie-huang/cluster-food">here</a>.
+
 
 ### Coalition formation in civil wars
 
-Why do rebel groups fight each other as well as the government they're seeking to overthrow? This project explores the relationship between a rebel group's military capacity and its likelihood of forming coalitions with other rebel groups. I performed a series of probit regressions in Stata to test this hypothesis.
+Why do rebel groups fight amongst themselves, in addition to fighting the government they're seeking to overthrow? I use a series of probit regression models to test the relationship between a rebel group's military capacity and its likelihood of forming coalitions with other rebel groups.
 
-See the repo <a href="https://github.com/leslie-huang/rebel-coalition-formation-replication">here</a>.
-
-## R tutorials
-
-Coming soon
+* See the repo <a href="https://github.com/leslie-huang/rebel-coalition-formation-replication">here</a>.
 
 
-## Python tutorials
+# _Tutorials_
 
-Coming soon
+***
 
-*Last updated February 24, 2017*
+I'm currently working a set of tutorials on data analysis in R and Python, in addition to introductory materials on NLP/text analysis.
+
+### R
+
+* <a href="R_tutorials/index.html">R tutorials</a>
+
+### Python
+
+* <A href="Python_tutorials/index.html">Python tutorials</a>
+
+*Last updated April 4, 2017*

@@ -1,0 +1,76 @@
+---
+title: "R Tutorials"
+output: 
+  html_document:
+    theme: spacelab
+    toc: true
+    toc_depth: 2
+    toc_float: 
+      collapsed: false
+---
+```{r setup, include=FALSE}
+
+```
+
+<a href="../index.html">Back to my homepage.</a>
+
+These tutorials will show you how to get started doing data analysis and machine learning in R. I utilize some of my favorite R packages: `ggplot2`, `dplyr`, and `quanteda`. 
+
+## Basics
+
+- <a href="csv.html">Getting started: importing data from a CSV</a>
+- Getting started: importing data from JSON
+- <a href="checkingtype.html">Checking and changing data types</a>
+- <a href="factors.html">Make factor variables and find the levels of your factors</a>
+- Making strings into Date/Time objects
+- Paste
+- Formula
+- Saving/exporting data
+
+## Data wrangling
+
+- Subsetting your data
+- Filtering based on values and conditions (e.g. NA, zero)
+- Create a boolean or indicator variable based on value of another variable
+- Concatenating two string variables into one
+- Finding the most common values
+- Counting how often values appear
+- Getting the unique values (sets)
+- Getting a random sample of your data for bootstrapping
+- Searching and replacing with regex
+- Merge two dataframes
+- Sorting values
+
+## Functions and why they're great:
+
+- Functions
+- R's equivalents of Map, Filter, and Reduce
+- Assign and get
+- Return and the global assignment operator
+
+## Analysis
+
+- Linear regression
+
+## Visualization
+
+- Making basic graphs with base R
+- ggplot2 graphs: bar
+- ggplot2 graphs: histogram
+- ggplot2 graphs: scatter
+- ggplot2 graphs: line (continuous)
+- ggplot2 graphs: line (discrete)
+- Smoothing plots on ggplot
+- Arranging bar graphs or discrete line graphs in order
+- Saving and exporting graphs
+
+## Text analysis
+
+- Getting started: import a corpus and metadata
+- Pre-processing
+- Making a document feature matrix aka document term matrix
+- Subsetting a DFM
+- Extracting summary statistics about your corpus/DFM
+- PCA
+- Topic modelling
+- Structural topic modelling

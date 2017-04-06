@@ -1,0 +1,64 @@
+---
+title: "R Tutorials"
+output: 
+  html_document:
+    theme: spacelab
+    toc: true
+    toc_depth: 2
+    toc_float: 
+      collapsed: false
+---
+```{r setup, include=FALSE}
+
+```
+
+#### Leslie Huang
+#### February 26, 2017
+
+## Checking and changing data types
+
+When importing data, it's best not to assume that variables have been imported as the correct types.
+
+Today's example comes from <a href="https://github.com/rudeboybert/fivethirtyeight/">FiveThirtyEight</a>. 
+
+```{r, include=FALSE}
+library(devtools)
+devtools::install_github("rudeboybert/fivethirtyeight")
+library(fivethirtyeight)
+data(package = "fivethirtyeight")
+```
+
+```{r, echo=FALSE}
+head(bad_drivers)
+```
+
+To check the type of values in a column of a dataframe, use the `class` command. Note that in R strings are called character vectors:
+
+```{r, echo=TRUE}
+class(bad_drivers$state)
+```
+
+In R, floating point numbers are called `numeric`.
+
+```{r, echo=TRUE}
+class(bad_drivers$losses)
+```
+
+Integers are `integer` type.
+
+```{r, echo=TRUE}
+class(bad_drivers$perc_alcohol)
+bad_drivers$perc_alcohol <- as.numeric(bad_drivers$perc_alcohol)
+```
+
+They can be coerced to `numeric`:
+
+```{r}
+class(bad_drivers$perc_alcohol)
+```
+
+And, of course, the class of the data structure itself can be checked:
+
+```{r}
+class(bad_drivers)
+```
