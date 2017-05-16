@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### What I do
 
-I'm a quantitative political scientist with a focus on data science. I work in Python and R (and occasionally Stata). Most of my research and side projects involve text analysis and NLP -- especially sentiment analysis, topic modelling, and other unsupervised machine learning approaches. I'm interested in data analysis, especially causal inference.
+I'm a quantitative political scientist with a focus on data science. I work in Python and R (and occasionally Stata). Most of my research and side projects involve text analysis and NLP -- especially sentiment analysis, topic modelling, and other unsupervised machine learning techniques. I'm interested in data analysis, especially causal inference.
 
 ### Who I am
 
@@ -34,10 +34,11 @@ Prior to grad school, I held editorial and managerial roles at a nonprofit (the 
 
 ### What I'm up to
 
-I'm working on a couple cool projects right now:
+I'm working on a few cool projects right now:
 
-* Exploring a massive dataset of food reviews from Amazon.com with <a href="https://github.com/leslie-huang/cluster-food">k-means clustering in Python</a>
-* Developing an <a href="https://github.com/leslie-huang/twitterNetworkGraphR">R library that scrapes Twitter and uses network graphs to visualize how users are connected</a>, in order to understand how "viral" tweets or information spreads
+* Exploring a massive dataset of food reviews from Amazon.com with <a href="https://github.com/leslie-huang/cluster-food">k-means clustering in Python</a>.
+* Developing an <a href="https://github.com/leslie-huang/twitterNetworkGraphR">R library that scrapes Twitter and uses network graphs to visualize how users are connected</a>, in order to understand how "viral" tweets spread.
+* Writing a series of tutorials in R and Python: Check out my latest post about <a href="Python_tutorials/gradientdescent.html">gradient descent and OLS regression</a>.
 
 Check out these works in progress, in addition to my completed projects, in the section below!
 
@@ -114,4 +115,4 @@ I'm currently working a set of tutorials on data analysis in R and Python, in ad
 
 * <A href="Python_tutorials/index.html">Python tutorials</a>
 
-*Last updated April 4, 2017*
+*Last updated April 18, 2017*

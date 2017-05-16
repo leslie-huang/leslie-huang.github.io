@@ -24,6 +24,7 @@ These tutorials will show you how to get started doing data analysis and machine
 
 ## Machine learning
 
+* <a href="Python_tutorials/gradientdescent.html">Gradient descent and OLS</a>
 * Text analysis pre-processing
 * K-means clustering
 * Topic modelling
