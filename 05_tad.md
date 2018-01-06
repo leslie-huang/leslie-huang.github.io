@@ -14,4 +14,4 @@ Check back soon for updates!
 
 Office: 19 W. 4th Street, Room 230
 
-Time: TBD
+Time: 12:45-1:45 pm on Thursdays
