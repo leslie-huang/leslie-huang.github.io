@@ -10,7 +10,7 @@ Students in DS 3001 Text-as-Data for Spring 2018: <a href="text-as-data-lab/">go
 
 <h3>Who I am</h3>
 
-I am a quantitative political scientist and 3rd-year PhD student in politics at NYU. I have a BA, summa cum laude, from Columbia University in political science and English literature.
+I am a quantitative political scientist and 3rd-year PhD student in the politics department at NYU, where I study methodology and comparative politics. I have a BA, summa cum laude, from Columbia University in political science and English literature.
 
 <h3>What I do</h3>
 
