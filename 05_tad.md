@@ -8,7 +8,13 @@ permalink: /text-as-data-lab/
 
 Most lab files will be available to <a href="https://github.com/leslie-huang/Text-as-Data-Lab-Spr2018">fork on GitHub</a>.
 
-Check back soon for updates!
+### Announcements
+
+(last updated 2/21/18)
+
+Problem Set 1 is due February 28!
+
+There will be a double lab during the lecture timeslot on Tuesday 2/27, and lecture during lab timeslot on Thursday, 3/1.
 
 ### Office hours
 
