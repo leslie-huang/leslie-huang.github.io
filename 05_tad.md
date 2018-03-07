@@ -10,11 +10,9 @@ Most lab files will be available to <a href="https://github.com/leslie-huang/Tex
 
 ### Announcements
 
-(last updated 2/21/18)
+(last updated 3/7/18)
 
-Problem Set 1 is due February 28!
-
-There will be a double lab during the lecture timeslot on Tuesday 2/27, and lecture during lab timeslot on Thursday, 3/1.
+Problem Set 2 is due March 27!
 
 ### Office hours
 
