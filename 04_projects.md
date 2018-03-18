@@ -18,7 +18,7 @@ For this project, I constructed an original Spanish-language corpus of documents
 
 * The repos are <a href="https://github.com/leslie-huang/MA-thesis-analysis">here</a> (for the main analysis) and <a href="https://github.com/leslie-huang/MA-thesis-scrapers">here</a> (for the scrapers).
 
-* View a sentiment analysis demo <a href="../sentiment_demo/sentiment.html">here</a>.
+* View a sentiment analysis demo <a href="https://leslie-huang.github.io/sentiment_demo/sentiment.html">here</a>.
 
 * I wrote a custom R library for this project (current working version is <a href="https://github.com/leslie-huang/faRc-sentiment-analysis-library">here</a>).
 
