@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Projects
+permalink: /projects/
 ---
 
 ### Estimating the distribution of state power at the UN using topic models
@@ -16,11 +16,13 @@ Can sentiment analysis predict whether peace talks will fail or succeed? Using t
 
 For this project, I constructed an original Spanish-language corpus of documents scraped from the official websites of the guerrilla group FARC, the president of Colombia, and the peace negotiators using Python. The main analysis was done in R.
 
-* The repos are <a href="https://github.com/leslie-huang/MA-thesis-analysis">here</a> (for the main analyis) and <a href="https://github.com/leslie-huang/MA-thesis-scrapers">here</a> (for the scrapers).
+* The repos are <a href="https://github.com/leslie-huang/MA-thesis-analysis">here</a> (for the main analysis) and <a href="https://github.com/leslie-huang/MA-thesis-scrapers">here</a> (for the scrapers).
 
-* I am refactoring this code into an R package (current version is <a href="https://github.com/leslie-huang/MApkg">here</a>).
+* View a sentiment analysis demo <a href="sentiment_demo/sentiment.html">here</a>.
 
-* This work was submitted as my MA paper and was awarded unanimous "high pass" grades, <a href="https://leslie-huang.github.io/MA_paper.pdf">here</a>.
+* I wrote a custom R library for this project (current working version is <a href="https://github.com/leslie-huang/faRc-sentiment-analysis-library">here</a>).
+
+* This work was submitted as my MA Paper, as part of my PhD coursework, and was awarded unanimous "high pass" grades.
 
 
 ### NYC restaurant grades visualizer
