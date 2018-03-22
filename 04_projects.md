@@ -6,9 +6,12 @@ permalink: /projects/
 
 ### Estimating the distribution of state power at the UN using topic models
 
-I use variation in the influence of states on the UN's agenda to estimate the distribution of power. For this project, I scraped original datasets of statements made at the UN and resolutions passed by the UN. I optimized an LDA topic model to extract states' priorities from their speeches and used panel data econometrics to estimate the relationship between states' priorities and resolutions passed by the UN.
+I use variation in the influence of states on the UN’s agenda to estimate the distribution of power. For this project, I scraped original datasets of statements made at the UN and resolutions passed by the UN using Python. I optimized an LDA topic model to extract states’ priorities from their speeches and used panel data econometrics to estimate the relationship between states’ priorities and resolutions passed by the UN.
 
-* This paper was submitted as my Qualifying Paper.
+* This project was submitted as my Qualifying Paper, a requirement to qualify as a PhD candidate, and earned unanimous “high pass” grades.
+
+* A revised version of this project will be part of my dissertation.
+
 
 ### Sentiment analysis of FARC-Colombia negotiations
 
