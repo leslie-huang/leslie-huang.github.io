@@ -4,4 +4,12 @@ title: Contact
 permalink: /contact/
 ---
 
-Email me at  [lesliehuang[at]nyu[dot]edu](mailto:lesliehuang[at]nyu[dot]edu). Additional information available upon request.
+Email me at  [lesliehuang[at]nyu[dot]edu](mailto:lesliehuang[at]nyu[dot]edu).
+
+## Where to find me on the Internet
+
+My ongoing projects are on <a href="https://github.com/leslie-huang">GitHub</a>.
+
+For more details about my professional experience, visit my <a href="https://www.linkedin.com/in/huangleslie/">LinkedIn</a>.
+
+Additional information available upon request.
