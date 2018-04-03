@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Email me at  [lesliehuang[at]nyu[dot]edu](mailto:lesliehuang[at]nyu[dot]edu).
+Email me at  [lesliehuang@nyu.edu](mailto:lesliehuang@nyu.edu).
 
 ## Where to find me on the Internet
 
