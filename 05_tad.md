@@ -10,9 +10,9 @@ Most lab files will be available to <a href="https://github.com/leslie-huang/Tex
 
 ### Announcements
 
-(last updated 3/7/18)
+(last updated 4/10/18)
 
-Problem Set 2 is due March 27!
+Problem Set 3 is due May 1!
 
 ### Office hours
 
