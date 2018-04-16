@@ -2,7 +2,7 @@
 layout: post
 title:  "Sentiment analysis demo"
 date:   2018-03-01 11:42:03 -0500
-categories: jekyll update
+categories: blog
 ---
 I've added a demo of my sentiment analysis project that used statements from the FARC-Colombia peace negotiations to predict behavior of the government and the rebels.
 
