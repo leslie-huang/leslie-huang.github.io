@@ -6,12 +6,15 @@ permalink: /projects/
 
 ### Estimating the distribution of state power at the UN using topic models
 
-I use variation in the influence of states on the UN’s agenda to estimate the distribution of power. For this project, I scraped original datasets of statements made at the UN and resolutions passed by the UN using Python. I optimized an LDA topic model to extract states’ priorities from their speeches and used panel data econometrics to estimate the relationship between states’ priorities and resolutions passed by the UN.
+What accounts for variation in states' influence on the agenda at the UN General Assembly (GA), and how can we use this variation to understand the underlying distribution of power in international relations? To answer these questions, I introduce a dataset of statements given at the UN's annual General Debate and a dataset of GA resolutions. Using unsupervised machine learning techniques, I extract each state's issue priorities from their statements and assess the extent to which resolutions passed by the GA address these priorities. Contrary to my expectations, I do not find convincing support for the hypotheses that Security Council members and wealthier countries have greater influence on the GA's agenda. The relationship between speech about a topic and that topic's inclusion in the agenda varies widely, depending on the topic; however, for the most part, no association is observed. I suggest these results are due to countervailing efforts to get a resolution on an agenda and to block it from the agenda. I also find that speech has a stronger effect on the agenda of voting resolutions versus consensus resolutions.
+
+*For this project, I scraped original datasets of statements made at the UN and resolutions passed by the UN using Python.
 
 * This project was submitted as my Qualifying Paper, a requirement to qualify as a PhD candidate, and earned unanimous “high pass” grades.
 
 * A revised version of this project will be part of my dissertation.
 
+* Repos currently under construction.
 
 ### Sentiment analysis of FARC-Colombia negotiations
 
@@ -23,7 +26,7 @@ For this project, I constructed an original Spanish-language corpus of documents
 
 * View a sentiment analysis demo <a href="https://leslie-huang.github.io/sentiment_demo/sentiment.html">here</a>.
 
-* I wrote a custom R library for this project (current working version is <a href="https://github.com/leslie-huang/faRc-sentiment-analysis-library">here</a>).
+* I wrote a custom R library for this project (messy, working version is <a href="https://github.com/leslie-huang/faRc-sentiment-analysis-library">here</a>).
 
 * This work was submitted as my MA Paper, as part of my PhD coursework, and was awarded unanimous "high pass" grades.
 
@@ -35,14 +38,6 @@ I built an interactive command-line tool in Python that provides users with effi
 * Check out a demo of the program and its visualization options <a href="https://leslie-huang.github.io/restaurant_demo/Using_the_restaurant_grades_visualizer.html">here</a>.
 
 * See the repo <a href="https://github.com/leslie-huang/restaurant-inspection-grades-visualizer">here</a>.
-
-### Twitter network data scraper
-
-(In progress.) I wrote some scripts to scrape information about a Twitter user's followers and those followers' followers, in order to model networks between social media users.
-
-* See the Python repo <a href="https://github.com/leslie-huang/twitter-ssscraper">here</a>, and the R repo <a href="https://github.com/leslie-huang/twitter-scrapeR">here</a>.
-
-* I'm developing my work in R in a <a href="https://github.com/leslie-huang/twitterNetworkGraphR">custom R library for scraping and visualizing n-degree networks</a>.
 
 ### Using Naive Bayes-style techniques to estimate Supreme Court ideology
 
