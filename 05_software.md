@@ -25,9 +25,9 @@ I wrote an R library to implement one of my favorite built-in Python functions: 
 
 * I'm developing my work in R in another  <a href="https://github.com/leslie-huang/twitterNetworkGraphR">custom R library for scraping and visualizing n-degree networks</a>.
 
-### faRcSentiment:
+### faRcSentiment: sentiment analysis tools
 
-For my MA Thesis project, I wrote an R package of sentiment analysis tools for estimating, smoothing, and plotting. The current version is narrowly tailored to my project; refactoring it to accept more general inputs is work still in progress.
+For my MA Thesis project, I wrote an R package of sentiment analysis tools for estimating, smoothing, and plotting sentiment extracted from texts related to the FARC--Colombia peace negotiations. The current version is narrowly tailored to my project; refactoring it to accept more general inputs is work still in progress.
 
 * Install it from GitHub <a href="https://github.com/leslie-huang/faRc-sentiment-analysis-library">here</a>.
 
