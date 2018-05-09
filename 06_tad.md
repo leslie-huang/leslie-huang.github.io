@@ -10,9 +10,7 @@ All lab files are available to <a href="https://github.com/leslie-huang/Text-as-
 
 ### Announcements
 
-(last updated 4/28/18)
-
-Problem Set 3 is due May 1 at 5pm!
+(last updated 5/9/18)
 
 Final projects are due May 11 at 5pm!
 
@@ -20,6 +18,6 @@ Final projects are due May 11 at 5pm!
 
 Location: Room 620, Center for Data Science
 
-Time: 12:45-1:45 pm on Thursdays
+Time: 12:45-1:45 pm on Thursdays (through May 3, 2018)
 
 Please see the announcements on NYUClasses for any changes to the office hours schedule.
