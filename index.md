@@ -1,13 +1,12 @@
 ---
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
 
 Welcome to my website!
 
-Students in DS 3001 Text-as-Data for Spring 2018: <a href="text-as-data-lab/">go here</a>.
-
 <a href="blog/">Latest updates here.</a>
+
+DS-GA 3001 Text-as-Data for Spring 2018: <a href="text-as-data-lab/">go here</a>.
 
 <h3>Who I am</h3>
 
