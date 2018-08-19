@@ -14,6 +14,8 @@ I maintain the <a href="https://github.com/leslie-huang/stylest">stylest</a> R p
 
 * This is the alpha version; please report bugs <a href="https://github.com/leslie-huang/stylest/issues">here</a>.
 
+* We use this software for a working paper, "Boring in a New Way: Estimation and Inference for Political Style in Westminster, 1935-2018" available <a href="https://www.nyu.edu/projects/spirling/documents/VeryBoring.pdf">here</a>.
+
 ### zipR: implementing Python-style zip() in R
 
 I wrote an R library to implement one of my favorite built-in Python functions: zip().
@@ -28,15 +30,8 @@ I wrote an R library to implement one of my favorite built-in Python functions: 
 
 \* "scrape" from the Twitter API, not webscraping
 
-(Work in progress / backburner project.) I wrote some tools to scrape information about a Twitter user's followers and those followers' followers, in order to model networks between social media users.
+(Backburner project.) I wrote some tools to scrape information about a Twitter user's followers and those followers' followers, in order to model networks between social media users.
 
 * See the Python repo <a href="https://github.com/leslie-huang/twitter-ssscraper">here</a>, and the R repo <a href="https://github.com/leslie-huang/twitter-scrapeR">here</a>.
 
 * I'm developing my work in R in another  <a href="https://github.com/leslie-huang/twitterNetworkGraphR">custom R library for scraping and visualizing n-degree networks</a>.
-
-### faRcSentiment: sentiment analysis tools
-
-For my MA Thesis project, I wrote an R package of sentiment analysis tools for estimating, smoothing, and plotting sentiment extracted from texts related to the FARC--Colombia peace negotiations. The current version is narrowly tailored to my project; refactoring it for general use is work still in progress.
-
-* Development version on <a href="https://github.com/leslie-huang/faRc-sentiment-analysis-library">GitHub</a>.
-

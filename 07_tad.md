@@ -24,6 +24,8 @@ Please see the announcements on NYUClasses for any changes to the office hours s
 
 ### R resources
 
-<a href="http://adv-r.had.co.nz/">Advanced R</a>
-<a href="https://bookdown.org/rdpeng/RProgDA/">Mastering Software Development in R</a>
-<a href="http://www.burns-stat.com/pages/Tutor/R_inferno.pdf">The R Inferno</a>
+- <a href="http://adv-r.had.co.nz/">Advanced R</a>
+
+- <a href="https://bookdown.org/rdpeng/RProgDA/">Mastering Software Development in R</a>
+
+- <a href="http://www.burns-stat.com/pages/Tutor/R_inferno.pdf">The R Inferno</a>
