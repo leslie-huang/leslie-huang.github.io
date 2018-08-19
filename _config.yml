@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hi there! I'm a quantitative political scientist and PhD student at NYU.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://leslie-huang.github.io"
-twitter_username:
+twitter_username: _LeslieHuang
 github_username:  leslie-huang
 linkedin_username: huangleslie
 
