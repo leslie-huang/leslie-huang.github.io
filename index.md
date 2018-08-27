@@ -10,12 +10,12 @@ Welcome to my website!
 
 I am a PhD student in Data Science at the NYU Center for Data Science. I use NLP and statistical analysis to study political science.
 
-I hold a BA, summa cum laude, from Columbia University in political science and English literature, as well as an MA from NYU in Politics.
-
 <h3>What I do</h3>
 
-I was Section Leader/Grader (TA) for <a href="text-as-data-lab/">DS-GA 3001 Text-as-Data (Spring 2018)</a>.
+I maintain <a href="https://github.com/leslie-huang/stylest">stylest</a>, the R package for textual style estimation (on CRAN soon!).
 
-See some of my projects on <a href="https://github.com/leslie-huang">GitHub</a>.
+I was Section Leader/Grader (TA) for DS-GA 3001 Text-as-Data (Spring 2018); see the archived page <a href="text-as-data-lab/">here</a>.
+
+Check out my projects on <a href="https://github.com/leslie-huang">GitHub</a>.
 
 Find out more about my work and research experience on <a href="https://www.linkedin.com/in/huangleslie">LinkedIn</a>.
