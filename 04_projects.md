@@ -20,30 +20,17 @@ What accounts for variation in states' influence on the agenda at the UN General
 
 * A revised version of this project will be part of my dissertation.
 
-* Repos currently under construction.
-
 ### Sentiment analysis of FARC-Colombia negotiations
 
 Can sentiment analysis predict whether peace talks will fail or succeed? Using the statements published by the FARC and the Colombian government, I developed a dynamic model that estimates whether each side's willingness to negotiate during the peace talks. I use this model to explain how the peace process responds to violent events.
 
 For this project, I constructed an original Spanish-language corpus of documents scraped from the official websites of the guerrilla group FARC, the president of Colombia, and the peace negotiators using Python. The main analysis was done in R.
 
-* The repos are <a href="https://github.com/leslie-huang/MA-thesis-analysis">here</a> (for the main analysis) and <a href="https://github.com/leslie-huang/MA-thesis-scrapers">here</a> (for the scrapers).
-
 * View a sentiment analysis demo <a href="https://leslie-huang.github.io/sentiment_demo/sentiment.html">here</a>.
 
 * I wrote a custom R library for this project (messy, working version is <a href="https://github.com/leslie-huang/faRc-sentiment-analysis-library">here</a>).
 
 * This work was submitted as my MA Paper, as part of my PhD coursework, and was awarded unanimous "high pass" grades.
-
-
-### NYC restaurant grades visualizer
-
-I built an interactive command-line tool in Python that provides users with efficient visualizations of health inspection grades from the NYC Department of Health. The user can view a restaurant's grades over time and compare that restaurant with others in the same neighborhood or category. The user can also search for the restaurant with the fewest (or most) health code violations in a given neighborhood or category.
-
-* Check out a demo of the program and its visualization options <a href="https://leslie-huang.github.io/restaurant_demo/Using_the_restaurant_grades_visualizer.html">here</a>.
-
-* See the repo <a href="https://github.com/leslie-huang/restaurant-inspection-grades-visualizer">here</a>.
 
 ### Using Naive Bayes-style techniques to estimate Supreme Court ideology
 
