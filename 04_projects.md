@@ -4,6 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
+### Dissertation
+
+Coming soon...
+
 ### Named Entity Recognition system for political speech
 
 I implemented an NLP pipeline for NER for political speeches at the UN. This included Part-of-Speech tagging, chunking, and an ensemble of classifiers for NE (MaxEnt MM, multiclass Naive Bayes, and Decision Trees), utilizing the tools available in NLTK and sk-learn, plus some old-fashioned elbow grease: I manually tagged 140,000+ tokens for the training/test data!
@@ -40,6 +44,6 @@ I scraped Supreme Court opinions from 2003-2015 and constructed a novel dataset 
 
 ### Work as a research assistant
 
-* Structural topic models to learn about Antarctica: As a research assistant in the Environmental Studies department, I applied unsupervised machine learning techniques to a dataset of documents pertaining to Antarctica. I cleaned and created the dataset in Python and pre-processed the documents, and optimized the model using the `stm` and `quanteda` packages.
+* Structural topic models to learn about Antarctica: As a research assistant in the Environmental Studies department, I applied unsupervised machine learning techniques to a dataset of documents pertaining to Antarctica. I cleaned and created the dataset in Python and pre-processed the documents, and optimized the model using `stm` and `quanteda`.
 
 * Network graph simulations: As a research assistant in the Politics department, I wrote and refactored code to simulate network graphs as part of a study to determine the implications of incomplete sampling of networks.

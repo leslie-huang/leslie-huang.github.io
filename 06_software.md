@@ -8,13 +8,13 @@ permalink: /software/
 
 I maintain the <a href="https://github.com/leslie-huang/stylest">stylest</a> R package, created with <a href="https://github.com/patperry">Patrick O. Perry</a> and <a href="https://github.com/ArthurSpirling/">Arthur Spirling</a>. It's written in R and built on top of <a href="https://cran.r-project.org/web/packages/corpus/index.html">corpus</a>.
 
-* Install  <a href="https://github.com/leslie-huang/stylest">stylest</a> from GitHub.
+* Install  <a href="https://github.com/leslie-huang/stylest">stylest</a> from GitHub. (On CRAN soon!)
 
 * View the <a href="https://github.com/leslie-huang/stylest/blob/master/vignettes/stylest-vignette.md">vignette</a> on GitHub.
 
 * This is the alpha version; please report bugs <a href="https://github.com/leslie-huang/stylest/issues">here</a>.
 
-* We use this software for a working paper, "Boring in a New Way: Estimation and Inference for Political Style in Westminster, 1935-2018" available <a href="https://www.nyu.edu/projects/spirling/documents/VeryBoring.pdf">here</a>.
+* Methods developed <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3235506">here</a>.
 
 ### zipR: implementing Python-style zip() in R
 
