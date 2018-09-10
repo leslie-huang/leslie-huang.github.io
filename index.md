@@ -10,7 +10,7 @@ Welcome to my website!
 
 I am a PhD student in Data Science at the NYU Center for Data Science, where I am advised by <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling</a>. In my research, I use NLP and text-as-data to study political science.
 
-I have a BA, summa cum laude, from Columbia University, and an MA from NYU, where I was as a PhD student in political science prior to joining Data Science.
+I have a BA, summa cum laude, from Columbia University, and an MA from NYU, where I was a PhD student in political science prior to joining Data Science.
 
 <h3>What I do</h3>
 
