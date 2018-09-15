@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Introducing stylest"
+date:   2018-07-15 12:42:03 -0500
+categories: blog
+---
+
+I'm very excited to announce the alpha launch of <a href="https://github.com/leslie-huang/stylest">stylest</a>, an R package for estimating textual speaker distinctiveness. I am the maintainer for this package, which was created with <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling</a> and <a href="http://ptrckprry.com/">Patrick Perry</a>.
+
+* Install  <a href="https://github.com/leslie-huang/stylest">stylest</a> from GitHub. (On CRAN soon!)
+
+* View the <a href="https://github.com/leslie-huang/stylest/blob/master/vignettes/stylest-vignette.md">vignette</a> on GitHub.

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Presenting at PolMeth"
+date:   2018-07-18 12:42:03 -0500
+categories: blog
+---
+
+At <a href="https://www.cambridge.org/core/membership/spm">PolMeth 2018</a>, I presented (with my co-author <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling</a>) “Boring in a New Way: Estimation and Inference for Political Style at Westminster, 1935–2018,” our working paper with <a href="http://ptrckprry.com/">Patrick Perry</a>.
+
+I also presented a poster for “Estimating the distribution of state power at the UN using topic models,” which was my Qualifying Paper.

@@ -16,8 +16,8 @@ I have a BA, summa cum laude, from Columbia University, and an MA from NYU, wher
 
 I maintain <a href="https://github.com/leslie-huang/stylest">stylest</a>, the R package for textual style estimation (on CRAN soon!).
 
-For Fall 2018, I am a Section Leader (TA) for <a href="https://github.com/briandalessandro/DataScienceCourse">Intro to Data Science</a>.
+For Fall 2018, I am a Section Leader (TA) for DS-GA 1001 <a href="https://github.com/briandalessandro/DataScienceCourse">Intro to Data Science</a>.
 
-Text analysis aficionados: see the archived lab materials for DS-GA 3001 Text-as-Data <a href="text-as-data-lab/">here</a>.
+Text analysis aficionados: archived lab materials for DS-GA 3001 Text-as-Data (Spring 2018) are <a href="text-as-data-lab/">here</a>.
 
 Visit my <a href="https://github.com/leslie-huang">GitHub</a> or <a href="https://www.linkedin.com/in/huangleslie">LinkedIn</a>.
