@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "stylest is on CRAN!"
+date:   2018-09-16 12:42:03 -0500
+categories: blog
+---
+
+I am thrilled to announce that stylest, my package with <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling</a> and <a href="http://ptrckprry.com/">Patrick Perry</a>, is now on <a href="https://cran.r-project.org/web/packages/stylest">CRAN</a>!
+
+You can install using `install.packages("stylest")` and start estimating textual speaker style distinctiveness!

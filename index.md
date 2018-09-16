@@ -14,7 +14,9 @@ I have a BA, summa cum laude, from Columbia University, and an MA from NYU, wher
 
 <h3>What I do</h3>
 
-I maintain <a href="https://github.com/leslie-huang/stylest">stylest</a>, the R package for textual style estimation (on CRAN soon!).
+I maintain <a href="https://cran.r-project.org/web/packages/stylest/">stylest</a>, the R package for textual style estimation. Install using `install.packages("stylest")`!
+
+I help run the <a href="https://cds.nyu.edu/text-data-speaker-series/">NLP and Text-as-Data Speaker Series</a>.
 
 For Fall 2018, I am a Section Leader (TA) for DS-GA 1001 <a href="https://github.com/briandalessandro/DataScienceCourse">Intro to Data Science</a>.
 
