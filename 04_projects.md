@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Working papers can be found at <a href="https://leslie-huang.github.io/papers/">; everything else is collected here.
+Working papers can be found <a href="https://leslie-huang.github.io/papers/">over here</a>; everything else is collected on this page.
 
 ### Dissertation
 
@@ -15,6 +15,10 @@ Working papers can be found at <a href="https://leslie-huang.github.io/papers/">
 I implemented an NLP pipeline for NER for political speeches at the UN. This included Part-of-Speech tagging, chunking, and an ensemble of classifiers for NE (MaxEnt MM, multiclass Naive Bayes, and Decision Trees), utilizing tools from NLTK and sklearn, plus some old-fashioned elbow grease: I manually tagged 140,000+ tokens for the training/test data!
 
 * See the repo <a href="https://github.com/leslie-huang/UN-named-entity-recognition"> here</a>.
+
+### Diffusion of information about political preferences in social networks
+
+Social media may facilitate the formation of echo chambers of polarized speech; but it provides valuable insight into mapping the connections between preferences on different issues---for example, the relationship between one's positions on income taxes or marriage equality---and how these connections influence the spread of political information---in this case, through retweets. Using 9.5 billion tweets from 2017 Women's March (kindly provided by the NYU SMAPP lab), I find that political preferences bound to core liberal issues---reproductive rights, gender equality, marriage equality, and climate change---are tightly correlated and that linking multiple issues together increases the engagement that a social media posting receives.
 
 ### Sentiment analysis of FARC-Colombia negotiations
 
