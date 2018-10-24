@@ -8,7 +8,9 @@ Welcome to my website!
 
 <h3>Who I am</h3>
 
-I am a PhD student in Data Science at the NYU Center for Data Science, where I am advised by <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling</a>. In my research, I use NLP and text-as-data to study political science.
+I am a PhD student in Data Science at NYU's Center for Data Science, where I am advised by <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling</a>.
+
+I use NLP and text-as-data to study social science. My dissertation is (tentatively) entitled "Evaluating the state of democracy using natural language processing."
 
 I have a BA, summa cum laude, from Columbia University, and an MA from NYU, where I was a PhD student in political science prior to joining Data Science.
 
@@ -18,8 +20,8 @@ I maintain <a href="https://cran.r-project.org/web/packages/stylest/">stylest</a
 
 I help run the <a href="https://cds.nyu.edu/text-data-speaker-series/">NLP and Text-as-Data Speaker Series</a>.
 
-For Fall 2018, I am a Section Leader (TA) for DS-GA 1001 <a href="https://github.com/briandalessandro/DataScienceCourse">Intro to Data Science</a>.
+I teach a Python lab for DS-GA 1001 <a href="https://github.com/leslie-huang/DataScienceCourse">Intro to Data Science</a>, a fundamental course for all grad students at the Center for Data Science.
 
-Text analysis aficionados: archived lab materials for DS-GA 3001 Text-as-Data (Spring 2018) are <a href="text-as-data-lab/">here</a>.
+I previously taught an R lab for DS-GA 3001 <a href="text-as-data-lab/">Text-as-Data</a>, also for PhD/MS students at the Center for Data Science.
 
 Visit my <a href="https://github.com/leslie-huang">GitHub</a> or <a href="https://www.linkedin.com/in/huangleslie">LinkedIn</a>.
