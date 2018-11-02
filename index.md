@@ -2,10 +2,6 @@
 layout: page
 ---
 
-Welcome to my website!
-
-<a href="blog/">Latest news ("blog") here.</a>
-
 <h3>Who I am</h3>
 
 I am a PhD student in Data Science at NYU's Center for Data Science, where I am advised by <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling</a>. I have a BA, summa cum laude, from Columbia University, and an MA from NYU, where I was a PhD student in political science prior to joining Data Science.
@@ -23,3 +19,5 @@ I teach a Python lab for DS-GA 1001 <a href="https://github.com/leslie-huang/Dat
 I previously taught an R lab for DS-GA 3001 <a href="text-as-data-lab/">Text-as-Data</a>, also for PhD and MS students at the Center for Data Science.
 
 Visit my <a href="https://github.com/leslie-huang">GitHub</a> or <a href="https://www.linkedin.com/in/huangleslie">LinkedIn</a> to find out more!
+
+<a href="blog/">Latest news ("blog") here.</a>
