@@ -16,15 +16,15 @@ I'm the maintainer of <a href="https://cran.r-project.org/web/packages/stylest">
 
 * Methods developed in <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3235506">this (working) paper</a>.
 
-### zipR: implementing Python-style zip() in R
+### zipR: Pythonic zip(), aka a better cbind(), in R
 
-I wrote an R library to implement one of my favorite built-in Python functions: zip().
+I made <a href="https://cran.r-project.org/web/packages/zipR/">zipR</a>, an R package that implements Python-style zip().
 
-* Install <a href="https://github.com/leslie-huang/zipR">zipR</a> from GitHub.
+* Install from CRAN using Install using `install.packages("zipR")`.
 
 * View a demo <a href="https://leslie-huang.github.io/zipr/zipr_demo.html">here</a>.
 
-* Please submit bugs/feature requests by opening an issue on GitHub.
+* Please report bugs on <a href="https://github.com/leslie-huang/zipR/issues">GitHub</a>!
 
 ### Twitter network data (Python and R)
 

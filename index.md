@@ -10,7 +10,9 @@ I use NLP and text-as-data to study political communication and behavior. My dis
 
 <h3>What I do</h3>
 
-I develop tools for inference and estimation in text. I maintain <a href="https://cran.r-project.org/web/packages/stylest/">stylest</a>, the R package for textual style estimation. Install using `install.packages("stylest")`!
+I develop tools for inference and estimation with text. I maintain <a href="https://cran.r-project.org/web/packages/stylest/">stylest</a>, the R package for textual style estimation. Install using `install.packages("stylest")`!
+
+I also make convenience functions for R. Install using `install.packages("zipR")` to start using Python-style zip() in R!
 
 I help run the <a href="https://cds.nyu.edu/text-data-speaker-series/">NLP and Text-as-Data Speaker Series</a> at the Center for Data Science.
 
