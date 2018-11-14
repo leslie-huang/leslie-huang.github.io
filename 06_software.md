@@ -20,7 +20,7 @@ I'm the maintainer of <a href="https://cran.r-project.org/web/packages/stylest">
 
 I made <a href="https://cran.r-project.org/web/packages/zipR/">zipR</a>, an R package that implements Python-style zip().
 
-* Install from CRAN using Install using `install.packages("zipR")`.
+* Install from CRAN using `install.packages("zipR")`.
 
 * View a demo <a href="https://leslie-huang.github.io/zipr/zipr_demo.html">here</a>.
 
