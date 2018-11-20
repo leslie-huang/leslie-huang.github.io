@@ -12,13 +12,11 @@ I use NLP and text-as-data to study political communication and behavior. My dis
 
 I develop tools for inference and estimation with text. I maintain <a href="https://cran.r-project.org/web/packages/stylest/">stylest</a>, the R package for textual style estimation. Install using `install.packages("stylest")`!
 
-I also make convenience functions for R. Install using `install.packages("zipR")` to start using Python-style zip() in R!
-
 I help run the <a href="https://cds.nyu.edu/text-data-speaker-series/">NLP and Text-as-Data Speaker Series</a> at the Center for Data Science.
 
-I teach a Python lab for DS-GA 1001 <a href="https://github.com/leslie-huang/DataScienceCourse">Intro to Data Science</a>, a fundamental course for all PhD and MS students in Data Science.
+I teach a Python lab for <a href="https://github.com/leslie-huang/DataScienceCourse">DS-GA 1001 Intro to Data Science</a>, a fundamental course for all PhD and MS students in Data Science.
 
-I previously taught an R lab for DS-GA 3001 <a href="text-as-data-lab/">Text-as-Data</a>, also for PhD and MS students at the Center for Data Science.
+I previously taught an R lab for <a href="text-as-data-lab/">DS-GA 3001 Text-as-Data</a>, also for grad students at the Center for Data Science.
 
 Visit my <a href="https://github.com/leslie-huang">GitHub</a> or <a href="https://www.linkedin.com/in/huangleslie">LinkedIn</a> to find out more!
 
