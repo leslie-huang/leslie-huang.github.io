@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intro to Data Science Lab Materials
+title: Intro to Data Science Lab
 permalink: /introDS-lab/
 ---
 

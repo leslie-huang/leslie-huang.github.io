@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Text-as-Data Lab Materials
+title: Text-as-Data Lab
 permalink: /text-as-data-lab/
 ---
 
