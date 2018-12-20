@@ -8,21 +8,7 @@ permalink: /teaching/
 
 All lab files are available to <a href="https://github.com/leslie-huang/Text-as-Data-Lab-Spr2018">fork on GitHub</a>.
 
-### Announcements
-
-(last updated 5/9/18)
-
-Final projects are due May 11 at 5pm!
-
-### Office hours
-
-Location: Room 620, Center for Data Science
-
-Time: 12:45-1:45 pm on Thursdays (through May 3, 2018)
-
-Please see the announcements on NYUClasses for any changes to the office hours schedule.
-
-### R resources
+#### R resources
 
 - <a href="http://adv-r.had.co.nz/">Advanced R</a>
 
