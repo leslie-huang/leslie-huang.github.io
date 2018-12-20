@@ -14,7 +14,7 @@ I develop tools for inference and estimation with text. I maintain <a href="http
 
 I help run the <a href="https://cds.nyu.edu/text-data-speaker-series/">NLP and Text-as-Data Speaker Series</a> at the Center for Data Science.
 
-I've taught graduate-level labs at the Center for Data Science for <a href="https://github.com/leslie-huang/DataScienceCourse">Intro to Data Science</a>, a fundamental course on machine learning algorithms for business applications (in Python), and <a href="text-as-data-lab/">Text-as-Data</a>, on text mining and NLP (in R).
+I've taught graduate-level labs at the Center for Data Science for <a href="https://github.com/leslie-huang/DataScienceCourse">Intro to Data Science</a>, a fundamental course on machine learning algorithms for business applications (in Python), and <a href="https://github.com/leslie-huang/Text-as-Data-Lab-Spr2018">Text-as-Data</a>, on text mining and NLP (in R).
 
 Visit my <a href="https://github.com/leslie-huang">GitHub</a> or <a href="https://www.linkedin.com/in/huangleslie">LinkedIn</a> to find out more.
 
