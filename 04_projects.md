@@ -6,9 +6,9 @@ permalink: /projects/
 
 Working papers can be found <a href="https://leslie-huang.github.io/papers/">over here</a>; everything else is collected on this page.
 
-### Dissertation
+### Dissertation: "Evaluating the state of democracy using natural language processing"
 
-"Evaluating the state of democracy using natural language processing"
+* More information soon.
 
 ### Named Entity Recognition system for political speech
 
