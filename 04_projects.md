@@ -8,7 +8,7 @@ Working papers can be found <a href="https://leslie-huang.github.io/papers/">ove
 
 ### Dissertation: "Evaluating the state of democracy using natural language processing"
 
-* More information soon.
+* Committee: <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling (chair)</a>, <a href="http://www.kyunghyuncho.me/">Kyunghyun Cho</a>, <a href="http://as.nyu.edu/content/nyu-as/as/faculty/jonathan-nagler.html">Jonathan Nagler</a>
 
 ### Named Entity Recognition system for political speech
 
