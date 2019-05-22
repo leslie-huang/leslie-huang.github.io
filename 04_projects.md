@@ -6,7 +6,7 @@ permalink: /projects/
 
 Working papers can be found <a href="https://leslie-huang.github.io/papers/">over here</a>; everything else is collected on this page.
 
-### Dissertation: "Evaluating the state of democracy using natural language processing"
+### Dissertation: "Contexualized NLP tools for political texts" (working title)
 
 * Committee: <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling (chair)</a>, <a href="http://www.kyunghyuncho.me/">Kyunghyun Cho</a>, <a href="http://as.nyu.edu/content/nyu-as/as/faculty/jonathan-nagler.html">Jonathan Nagler</a>
 
