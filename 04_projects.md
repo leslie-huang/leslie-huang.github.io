@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-Working papers can be found <a href="https://leslie-huang.github.io/papers/">over here</a>; everything else is collected on this page.
+Working papers are <a href="https://leslie-huang.github.io/papers/">over here</a>; all other projects are collected on this page.
 
 ### Dissertation: "Contexualized NLP tools for political texts" (working title)
 
