@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Working Papers
+title: Working papers
 permalink: /papers/
 ---
+
+# Working papers
 
 ### A. Spirling, L. Huang, and P. Perry. "A General Model of Author 'Style' with Application to the UK House of Commons, 1935–2018"
 
