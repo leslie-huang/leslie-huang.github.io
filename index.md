@@ -2,8 +2,6 @@
 layout: page
 ---
 
-## Who I am
-
 I am a PhD student in Data Science at NYU's Center for Data Science, where I am advised by <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling</a>. I have a BA, summa cum laude, from Columbia University, and an MA from NYU, where I was a PhD student in political science prior to joining Data Science.
 
 <a href="blog/">Latest news ("blog") here.</a>
