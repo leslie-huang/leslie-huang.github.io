@@ -12,7 +12,7 @@ I use NLP to develop tools and estimation methods for analyzing text, especially
 
 I help run the <a href="https://cds.nyu.edu/text-data-speaker-series/">NLP and Text-as-Data Speaker Series</a> at the Center for Data Science.
 
-I've taught graduate-level labs at the Center for Data Science for <a href="https://github.com/leslie-huang/DataScienceCourse">Intro to Data Science</a>, a fundamental course on machine learning algorithms for business applications (in Python), and <a href="https://github.com/leslie-huang/Text-as-Data-Lab-Spr2018">Text-as-Data</a>, on text mining and NLP (in R).
+I'm a supporter of open source software, and recently interned on the <a href="https://shiny.rstudio.com/">Shiny team at RStudio</a>.
 
 ## Where to find me on the Internet
 
