@@ -8,7 +8,7 @@ permalink: /projects/
 
 Working papers are <a href="https://leslie-huang.github.io/papers/">over here</a>; all other projects are collected on this page.
 
-### Dissertation: "Contexualized NLP tools for political texts" (working title)
+### Dissertation: "Contexualized NLP tools for unsupervised text analysis" (working title)
 
 * Committee: <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling (chair)</a>, <a href="http://www.kyunghyuncho.me/">Kyunghyun Cho</a>, <a href="http://as.nyu.edu/content/nyu-as/as/faculty/jonathan-nagler.html">Jonathan Nagler</a>
 
