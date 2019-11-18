@@ -26,7 +26,9 @@ What accounts for variation in states' influence on the agenda at the UN General
 
 * This project was submitted as my Qualifying Paper, a requirement to qualify as a PhD candidate in political science, and earned unanimous “high pass” grades.
 
+
 # Old stuff
+
 
 ### Named Entity Recognition system for political speech
 
