@@ -18,4 +18,4 @@ I'm a supporter of open source software and recently interned with the <a href="
 
 For details about my professional experience (including my years as a book editor!), visit my <a href="https://www.linkedin.com/in/huangleslie/">LinkedIn</a>.
 
-Some of my ongoing projects are on <a href="https://github.com/leslie-huang">GitHub</a>, but most are in private repos.
+Some of my ongoing projects are on <a href="https://github.com/leslie-huang">GitHub</a>, but most are in private repos until they are ready for publication.
