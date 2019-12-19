@@ -6,6 +6,7 @@ permalink: /papers/
 
 
 # Dissertation
+---
 
 #### "Contexualized NLP tools for unsupervised text analysis" (working title)
 
@@ -13,6 +14,7 @@ permalink: /papers/
 
 
 # Papers
+---
 
 #### Huang, L., P. Perry, and A. Spirling. "A General Model of Author 'Style' with Application to the UK House of Commons, 1935–2018"
 
@@ -27,9 +29,10 @@ What accounts for variation in states' influence on the agenda at the UN General
 * This paper was submitted as my Qualifying Paper, a requirement to qualify as a PhD candidate in political science, and earned unanimous “high pass” grades.
 
 
-# Old stuff
+# (Old stuff)
+---
 
-### Sentiment analysis of FARC-Colombia negotiations
+#### Sentiment analysis of FARC-Colombia negotiations
 
 Can sentiment analysis predict whether peace talks will fail or succeed? Using the statements published by the FARC and the Colombian government, I developed a dynamic model that estimates whether each side's willingness to negotiate during the peace talks. I use this model to explain how the peace process responds to violent events.
 
