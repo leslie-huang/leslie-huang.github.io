@@ -6,15 +6,14 @@ permalink: /papers/
 
 
 # Dissertation
----
 
 #### "Contexualized NLP tools for unsupervised text analysis" (working title)
 
 * Committee: <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling (chair)</a>, <a href="http://www.kyunghyuncho.me/">Kyunghyun Cho</a>, <a href="http://as.nyu.edu/content/nyu-as/as/faculty/jonathan-nagler.html">Jonathan Nagler</a>
 
+<p style="text-align: center;">&bull; &bull; &bull;</p>
 
 # Publications
----
 
 #### Huang, L., P. Perry, and A. Spirling. "A General Model of Author 'Style' with Application to the UK House of Commons, 1935–2018"
 
@@ -22,16 +21,17 @@ We consider the merits of claims that Members of Parliament (MPs) in the UK have
 
 * Forthcoming in _Political Analysis_.
 
+<p style="text-align: center;">&bull; &bull; &bull;</p>
+
 # Working papers
----
+
 #### Huang, L., K. Cho, and S. Bowman. "Automatic extraction of word senses from deep contextualized word embeddings."
 
 (watch this space)
 
+<p style="text-align: center;">&bull; &bull; &bull;</p>
 
 # Old stuff
----
-
 
 #### Huang, L. "Estimating the distribution of state power at the UN using topic models"
 

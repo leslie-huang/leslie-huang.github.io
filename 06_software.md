@@ -4,8 +4,17 @@ title: Software
 permalink: /software/
 ---
 
-# General use software
----
+# R packages
+
+#### stylest: Estimating speaker style distinctiveness in R
+
+I'm the maintainer of <a href="https://cran.r-project.org/web/packages/stylest">stylest</a>, created with <a href="https://github.com/patperry">Patrick O. Perry</a> and <a href="https://github.com/ArthurSpirling/">Arthur Spirling</a>. It's written in R and built on top of <a href="https://cran.r-project.org/web/packages/corpus/index.html">corpus</a>.
+
+* We're on <a href="https://cran.r-project.org/web/packages/stylest">CRAN</a>! Install using `install.packages("stylest")`.
+
+* Read the <a href="https://cran.r-project.org/web/packages/stylest/vignettes/stylest-vignette.html">vignette</a>.
+
+* Read all about it! The paper is forthcoming in _Political Analysis_.
 
 #### leaflet.providers: map provider metadata for `leaflet`
 
@@ -23,21 +32,11 @@ I made <a href="https://cran.r-project.org/web/packages/zipR/">zipR</a>, an R pa
 
 * View a <a href="https://leslie-huang.github.io/zipr/zipr_demo.html">demo</a>.
 
-# Academic software
----
 
-#### stylest: Estimating speaker style distinctiveness in R
+<p style="text-align: center;">&bull; &bull; &bull;</p>
 
-I'm the maintainer of <a href="https://cran.r-project.org/web/packages/stylest">stylest</a>, created with <a href="https://github.com/patperry">Patrick O. Perry</a> and <a href="https://github.com/ArthurSpirling/">Arthur Spirling</a>. It's written in R and built on top of <a href="https://cran.r-project.org/web/packages/corpus/index.html">corpus</a>.
-
-* We're on <a href="https://cran.r-project.org/web/packages/stylest">CRAN</a>! Install using `install.packages("stylest")`.
-
-* Read the <a href="https://cran.r-project.org/web/packages/stylest/vignettes/stylest-vignette.html">vignette</a>.
-
-* Read all about it! The paper is forthcoming in _Political Analysis_.
 
 # Old stuff
----
 
 #### Twitter network models (on hiatus since 2017)
 I wrote some tools to scrape information about a Twitter user's followers and those followers' followers, in order to model networks between social media users.
