@@ -23,6 +23,12 @@ We consider the merits of claims that Members of Parliament (MPs) in the UK have
 
 #### Huang, L., K. Cho, and S. Bowman. "Can we identify word senses from deep contextualized word embeddings without supervision?" [<a href="https://medium.com/@leslie_huang/automatic-extraction-of-word-senses-from-deep-contextualized-word-embeddings-2f09f16e820">post here</a>]
 
+![](elmo.png)
+
+A summary of our experimental methodology:
+
+![](diag.png)
+
 <p style="text-align: center;">&bull; &bull; &bull;</p>
 
 # Old stuff
