@@ -16,7 +16,7 @@
 title: Leslie Huang | NYU
 email: lesliehuang@nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi there! I'm a quantitative political scientist and Data Science PhD student at NYU.
+  Hi there! I'm a computational social scientist and Data Science PhD student at NYU.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://leslie-huang.github.io"
 twitter_username: _LeslieHuang
