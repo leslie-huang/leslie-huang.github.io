@@ -24,9 +24,13 @@ I wrote <a href="https://rstudio.github.io/leaflet.providers/">leaflet.providers
 
 * Check out the <a href="https://rstudio.github.io/leaflet.providers/">documentation</a>.
 
+#### corpus: fast text processing
+
+I'm the maintainer for <a href="https://cran.r-project.org/web/packages/corpus">corpus</a>, written by my colleague <a href="https://github.com/patperry">Patrick O. Perry</a>. Install using `install.packages("corpus")`.
+
 #### zipR: Pythonic zip(), aka a better cbind() for R
 
-I made <a href="https://cran.r-project.org/web/packages/zipR/">zipR</a>, an R package that implements Python-style zip().
+I am the creator and maintainer of <a href="https://cran.r-project.org/web/packages/zipR/">zipR</a>, which implements Python-style zip().
 
 * Install from CRAN using `install.packages("zipR")`.
 
