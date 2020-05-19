@@ -7,9 +7,13 @@ permalink: /papers/
 
 # Dissertation
 
-#### "Contexualized NLP tools for unsupervised text analysis" (working title)
+#### "Contexualized NLP tools for text analysis" (working title)
 
-* Committee: <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling (chair)</a>, <a href="http://www.kyunghyuncho.me/">Kyunghyun Cho</a>, <a href="http://as.nyu.edu/content/nyu-as/as/faculty/jonathan-nagler.html">Jonathan Nagler</a>
+* Using BERT to identify discriminating words from contextual connotation
+* Estimating authors' stylistic distinctiveness with embeddings: enhancements to ‘A General Model of Author Style’
+* Methods for optimizing unsupervised clustering of questions and answers in political discourse
+
+Committee: <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling (chair)</a>, <a href="http://www.kyunghyuncho.me/">Kyunghyun Cho</a>, <a href="http://as.nyu.edu/content/nyu-as/as/faculty/jonathan-nagler.html">Jonathan Nagler</a>
 
 <p style="text-align: center;">&bull; &bull; &bull;</p>
 
