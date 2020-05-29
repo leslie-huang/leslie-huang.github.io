@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I am a PhD student in Data Science at NYU's Center for Data Science, where I will complete my doctoral studies in 2021. I use NLP to develop tools and estimation methods for understanding text, especially political communication.
+I am a PhD candidate in Data Science at NYU's Center for Data Science, where I will complete my doctoral studies in spring 2021. I use NLP to develop tools and estimation methods for understanding text, especially political communication.
 
 My dissertation is entitled "Contexualized NLP methods for unsupervised text analysis."
 
