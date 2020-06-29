@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Software</title>
-  <meta name="description" content="Hi there! I&#39;m a computational social scientist and Data Science PhD student at NYU.">
+  <meta name="description" content="Hi there! I&#39;m a computational social scientist and Data Science PhD candidate at NYU.">
 
   <link rel="stylesheet" href="/assets/main.css">
   <link rel="canonical" href="http://localhost:4000/software/">
@@ -84,7 +84,26 @@
   </header> -->
 
   <div class="post-content">
-    <h1 id="r-packages">R packages</h1>
+    <h1 id="python">Python</h1>
+
+<h4 id="how-many-word-senses">How Many Word Senses?</h4>
+
+<p>I wrote a library (using the term loosely) to implement my unsupervised method to identify the number of word senses using contextualized representations.</p>
+
+<p>This workflow includes, from start to finish: SQL databases queried through Python. Flexible options for selecting contexts containing a target word and extracting the contextualized representations from <a href="https://github.com/google-research/bert">BERT</a> / <a href="https://allennlp.org/elmo">ELMo</a> / (non-contextualized) <a href="http://fasttext.cc">fastText</a>. Dimensionality reduction and cross-validated clustering using <a href="https://scikit-learn.org">sklearn</a> and other goodies. Evaluation against ground truth data (WordNet). Batch scripting to run a gridsearch pipeline for 1000s of words. Plus tools for visualizing manually annotated data (see the <a href="https://medium.com/@leslie_huang/automatic-extraction-of-word-senses-from-deep-contextualized-word-embeddings-2f09f16e820">Medium</a> post for some fun graphs).</p>
+
+<ul>
+  <li>
+    <p>Code, including demo Jupyter Notebooks, is up on <a href="https://github.com/leslie-huang/howmanywordsenses">GitHub</a>.</p>
+  </li>
+  <li>
+    <p>Read the write-up “Can we identify word senses from deep contextualized word embeddings without supervision?” on <a href="https://medium.com/@leslie_huang/automatic-extraction-of-word-senses-from-deep-contextualized-word-embeddings-2f09f16e820">Medium</a>.</p>
+  </li>
+</ul>
+
+<p style="text-align: center;">&bull; &bull; &bull;</p>
+
+<h1 id="r-packages">R packages</h1>
 
 <h4 id="stylest-estimating-speaker-style-distinctiveness-in-r">stylest: Estimating speaker style distinctiveness in R</h4>
 
@@ -115,9 +134,17 @@
   </li>
 </ul>
 
+<h4 id="corpus-fast-text-processing">corpus: fast text processing</h4>
+
+<p>I’m the maintainer for <a href="https://cran.r-project.org/web/packages/corpus">corpus</a>, written by my colleague <a href="https://github.com/patperry">Patrick O. Perry</a>.</p>
+
+<ul>
+  <li>Install from CRAN using <code class="highlighter-rouge">install.packages("corpus")</code>.</li>
+</ul>
+
 <h4 id="zipr-pythonic-zip-aka-a-better-cbind-for-r">zipR: Pythonic zip(), aka a better cbind() for R</h4>
 
-<p>I made <a href="https://cran.r-project.org/web/packages/zipR/">zipR</a>, an R package that implements Python-style zip().</p>
+<p>I am the creator and maintainer of <a href="https://cran.r-project.org/web/packages/zipR/">zipR</a>, which implements Python-style zip().</p>
 
 <ul>
   <li>
@@ -177,7 +204,7 @@
             </div>
 
             <div class="footer-col footer-col-3">
-                <p>Hi there! I&#39;m a computational social scientist and Data Science PhD student at NYU.</p>
+                <p>Hi there! I&#39;m a computational social scientist and Data Science PhD candidate at NYU.</p>
             </div>
         </div>
 
