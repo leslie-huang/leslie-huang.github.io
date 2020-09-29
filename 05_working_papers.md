@@ -7,11 +7,11 @@ permalink: /papers/
 
 # Dissertation
 
-#### "Contexualized NLP tools for text analysis" (working title)
+#### "Contextual NLP tools for understanding political communication" (working title)
 
-* Using BERT to identify discriminating words from contextual connotation
-* Estimating authors' stylistic distinctiveness with embeddings: enhancements to ‘A General Model of Author Style’
-* Methods for optimizing unsupervised clustering of questions and answers in political discourse
+* Using BERT to characterize partisan textual connotation
+* A semantic and stylistic estimation method for authors' distinctiveness: enhancements to ‘A General Model of Author Style’
+* Optimal model selection in unsupervised clustering of questions and answers in political discourse
 
 I am incredibly fortunate to have a committee of political scientists and data scientists to advise me on my interdisciplinary research: <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling (chair)</a>, <a href="https://www.nyu.edu/projects/bowman/">Sam Bowman</a>, <a href="http://www.kyunghyuncho.me/">Kyunghyun Cho</a>, <a href="http://as.nyu.edu/content/nyu-as/as/faculty/jonathan-nagler.html">Jonathan Nagler</a>, and <a href="https://scholar.princeton.edu/bstewart/home">Brandon Stewart</a>.
 
