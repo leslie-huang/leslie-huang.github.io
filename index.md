@@ -2,19 +2,19 @@
 layout: page
 ---
 
-I am a PhD candidate in Data Science at NYU's Center for Data Science. I develop NLP tools for understanding texts, with an emphasis on applications in political communication. My research interests include representation learning, estimation methods for text, transfer learning, clustering methods.
+I am a PhD candidate in Data Science at NYU's Center for Data Science. I develop NLP tools for understanding texts, with an emphasis on applications in political communication. My research interests include representation learning, estimation methods for text, transfer learning, and clustering methods.
 
-My dissertation is entitled "Contexualized NLP methods for unsupervised text analysis in political science" (coming soon: spring 2021).
+My dissertation is entitled "Contextual NLP tools for understanding political communication" (coming soon: spring 2021).
 
 ## About me
 
-I earned a BA, summa cum laude, in English literature and political science from Columbia University (2011); an MA in political science from NYU (2018), where I was a PhD student in political science prior to joining Data Science; and an MPhil in Data Science from NYU (September 2020).
+My background is in political science, with a focus on quantitative methods and text analysis. I earned a BA, summa cum laude, in English literature and political science from Columbia University (2011). I also hold a MA in political science from NYU (2018) and a MPhil in data science from NYU (2020).
 
-This summer, I am a research intern in the <a href="https://www.techatbloomberg.com/ai/">AI group at Bloomberg LP</a>. I previously interned with the <a href="https://shiny.rstudio.com/">Shiny team at RStudio</a>.
+I have worked as a research intern in the <a href="https://www.techatbloomberg.com/ai/">AI group at Bloomberg</a>, and as an engineering intern on <a href="https://shiny.rstudio.com/">Shiny team at RStudio</a>. Before grad school, I worked at a nonprofit and in book publishing.
 
 ## Where to find me
 
-For details about my professional experience (including my years as a book editor!), visit my <a href="https://www.linkedin.com/in/huangleslie/">LinkedIn</a>.
+For details about my professional experience, visit my <a href="https://www.linkedin.com/in/huangleslie/">LinkedIn</a>.
 
 I'm a supporter of open source software and I have <a href="https://leslie-huang.github.io/software/">a few R packages</a> on CRAN.
 
