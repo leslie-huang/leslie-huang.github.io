@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I am a PhD candidate in Data Science at NYU's Center for Data Science. I develop NLP tools for understanding texts, with an emphasis on applications in political communication. My research interests include representation learning, estimation methods for text, transfer learning, and clustering methods.
+I am a PhD candidate in Data Science at <a href="cds.nyu.edu/">NYU's Center for Data Science</a>. I develop NLP tools for understanding texts, with an emphasis on applications in political communication. My research interests include representation learning, estimation methods for text, transfer learning, and clustering methods.
 
 My dissertation is entitled "Contextual NLP tools for understanding political communication" (coming soon: spring 2021).
 

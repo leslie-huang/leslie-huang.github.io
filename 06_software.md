@@ -53,16 +53,3 @@ I am the creator and maintainer of <a href="https://cran.r-project.org/web/packa
 * Install from CRAN using `install.packages("zipR")`.
 
 * View a <a href="https://leslie-huang.github.io/zipr/zipr_demo.html">demo</a>.
-
-
-<p style="text-align: center;">&bull; &bull; &bull;</p>
-
-
-# Old stuff
-
-#### Twitter network models (on hiatus since 2017)
-I wrote some tools to scrape information about a Twitter user's followers and those followers' followers, in order to model networks between social media users.
-
-* See the Python repo <a href="https://github.com/leslie-huang/twitter-ssscraper">here</a>, and the R repo <a href="https://github.com/leslie-huang/twitter-scrapeR">here</a>.
-
-* I'm developing another <a href="https://github.com/leslie-huang/twitterNetworkGraphR">custom R library for scraping and visualizing n-degree networks</a>.
