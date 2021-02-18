@@ -4,16 +4,11 @@ title: Papers
 permalink: /papers/
 ---
 
-
 # Dissertation
 
-#### "Contextual NLP tools for understanding political communication" (working title)
+#### "Three Essays on Contextual Natural Language Processing Methods for Understanding Political Communication" (working title)
 
-* Using BERT to characterize partisan textual connotation
-* A semantic and stylistic estimation method for authors' distinctiveness: enhancements to ‘A General Model of Author Style’
-* Optimal model selection in unsupervised clustering of questions and answers in political discourse
-
-I am incredibly fortunate to have a committee of political scientists and data scientists to advise me on my interdisciplinary research: <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling (chair)</a>, <a href="https://www.nyu.edu/projects/bowman/">Sam Bowman</a>, <a href="http://www.kyunghyuncho.me/">Kyunghyun Cho</a>, <a href="http://as.nyu.edu/content/nyu-as/as/faculty/jonathan-nagler.html">Jonathan Nagler</a>, and <a href="https://scholar.princeton.edu/bstewart/home">Brandon Stewart</a>.
+I am incredibly fortunate to have an interdisciplinary committee to advise me on my interdisciplinary research: <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling (chair)</a>, <a href="https://www.nyu.edu/projects/bowman/">Sam Bowman</a>, <a href="http://www.kyunghyuncho.me/">Kyunghyun Cho</a>, <a href="http://as.nyu.edu/content/nyu-as/as/faculty/jonathan-nagler.html">Jonathan Nagler</a>, and <a href="https://scholar.princeton.edu/bstewart/home">Brandon Stewart</a>.
 
 <p style="text-align: center;">&bull; &bull; &bull;</p>
 
@@ -28,27 +23,3 @@ We consider the merits of claims that Members of Parliament (MPs) in the UK have
 #### Huang, L., K. Cho, and S. Bowman. "Can we identify word senses from deep contextualized word embeddings without supervision?" [<a href="https://medium.com/@leslie_huang/automatic-extraction-of-word-senses-from-deep-contextualized-word-embeddings-2f09f16e820">post here</a>]
 
 ![](elmo.png)
-
-A summary of our experimental methodology:
-
-![](diag.png)
-
-<p style="text-align: center;">&bull; &bull; &bull;</p>
-
-# Old stuff
-
-#### Huang, L. "Estimating the distribution of state power at the UN using topic models"
-
-What accounts for variation in states' influence on the agenda at the UN General Assembly (GA), and how can we use this variation to understand the underlying distribution of power in international relations? To answer these questions, I introduce a dataset of statements given at the UN's annual General Debate, and a corresponding dataset of GA resolutions. Using unsupervised machine learning, I extract each state's issue priorities from their statements and assess the extent to which resolutions passed by the GA address these priorities. Contrary to my expectations, I do not find convincing support for the hypotheses that Security Council members or wealthier countries shape the UN's agenda to fit their interests. I suggest this result is due to countervailing efforts to block and advance resolutions.
-
-* This paper was submitted as my Qualifying Paper, a requirement to qualify as a PhD candidate in political science, and earned unanimous “high pass” grades.
-
-#### Sentiment analysis of FARC-Colombia negotiations
-
-Can sentiment analysis predict whether peace talks will fail or succeed? Using the statements published by the FARC and the Colombian government, I developed a dynamic model that estimates whether each side's willingness to negotiate during the peace talks. I use this model to explain how the peace process responds to violent events.
-
-For this project, I constructed an original Spanish-language corpus of documents scraped from the official websites of the guerrilla group FARC, the president of Colombia, and the peace negotiators using Python. The main analysis was done in R.
-
-* View a sentiment analysis demo <a href="https://leslie-huang.github.io/sentiment_demo/sentiment.html">here</a>.
-
-* This work was submitted as my Masters Paper, as part of my political science PhD coursework, and was awarded unanimous "high pass" grades.
