@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Presenting at APSA"
-date:   2018-08-31 12:42:03 -0500
-categories: blog
----
-
-At <a href="http://www.apsanet.org/">APSA 2018</a>, the top conference in political science, I presented “Boring in a New Way: Estimation and Inference for Political Style at Westminster, 1935–2018,” a working paper with <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling</a> and <a href="http://ptrckprry.com/">Patrick Perry</a>.

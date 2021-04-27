@@ -1,7 +1,0 @@
----
-layout: post
-title:  "zipR demo"
-date:   2018-04-16 12:42:03 -0500
-categories: blog
----
-I've added a new section for <a href="https://leslie-huang.github.io/software/">Software</a>, and a quick introduction to an <a href="https://leslie-huang.github.io/zipr/zipr_demo.html">R library I wrote to implement zip()</a>.
