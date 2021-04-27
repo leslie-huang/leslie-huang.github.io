@@ -13,8 +13,8 @@ I am a PhD candidate in Data Science at <a href="cds.nyu.edu/">NYU's Center for 
 
 My background is in political science, with a focus on quantitative methods and text analysis. I earned a BA, summa cum laude, in English literature and political science from Columbia University (2011). I also hold a MA in political science from NYU (2018) and a MPhil in data science from NYU (2020).
 
-I have worked as a research intern in the <a href="https://www.techatbloomberg.com/ai/">AI group at Bloomberg</a>, and as an engineering intern on the <a href="https://shiny.rstudio.com/">Shiny team at RStudio</a>. Before grad school, I working in managing editorial at <a href="https://wwnorton.com/">W. W. Norton</a>. For details about my professional experience, visit my <a href="https://www.linkedin.com/in/huangleslie/">LinkedIn</a>.
+I have worked as a research intern in the <a href="https://www.techatbloomberg.com/ai/">AI group at Bloomberg</a>, and as an engineering intern on the <a href="https://shiny.rstudio.com/">Shiny team at RStudio</a>. At NYU CDS, I taught Text-as-Data (<a href="https://github.com/leslie-huang/Text-as-Data-Lab-Spr2018">Spring 2018</a> and <a href="https://github.com/leslie-huang/TextasDataLabSpring2020">Spring 2020</a>) and Intro to Data Science (<a href="https://github.com/leslie-huang/DataScienceCourse">Fall 2018</a>).
+
+Before grad school, I working in managing editorial at <a href="https://wwnorton.com/">W. W. Norton</a>. For details about my professional experience, visit my <a href="https://www.linkedin.com/in/huangleslie/">LinkedIn</a>.
 
 If you're an NYC-area NLPer, you might recognize me from NYU's <a href="https://cds.nyu.edu/text-data-speaker-series/">NLP and Text-as-Data Speaker Series</a>, which I coordinated from 2017--2020.
-
-<!-- <a href="blog/">Old "blog" here.</a> -->

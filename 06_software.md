@@ -24,21 +24,17 @@ This workflow includes, from start to finish: SQL databases queried through Pyth
 
 #### stylest: Estimating speaker style distinctiveness in R
 
-I'm the maintainer of <a href="https://cran.r-project.org/web/packages/stylest">stylest</a>, created with <a href="https://github.com/patperry">Patrick O. Perry</a> and <a href="https://github.com/ArthurSpirling/">Arthur Spirling</a>. It's written in R and built on top of <a href="https://cran.r-project.org/web/packages/corpus/index.html">corpus</a>.
+I'm the maintainer of <a href="https://cran.r-project.org/web/packages/stylest">stylest</a>, created with <a href="https://github.com/patperry">Patrick O. Perry</a> and <a href="https://github.com/ArthurSpirling/">Arthur Spirling</a>.
 
 * We're on <a href="https://cran.r-project.org/web/packages/stylest">CRAN</a>! Install using `install.packages("stylest")`.
 
-* Read the <a href="https://cran.r-project.org/web/packages/stylest/vignettes/stylest-vignette.html">vignette</a>.
-
-* Read all about it! The paper is forthcoming in _Political Analysis_.
+* Read the <a href="https://cran.r-project.org/web/packages/stylest/vignettes/stylest-vignette.html">vignette</a> and check out the <a href="https://doi.org/10.1017/pan.2019.49">paper</a>.
 
 #### leaflet.providers: map provider metadata for `leaflet`
 
 I wrote <a href="https://rstudio.github.io/leaflet.providers/">leaflet.providers</a> while interning at <a href="https://shiny.rstudio.com/">RStudio</a> on the Shiny team.
 
 * Install from CRAN using `install.packages("leaflet.providers")`.
-
-* Check out the <a href="https://rstudio.github.io/leaflet.providers/">documentation</a>.
 
 #### corpus: fast text processing
 
@@ -51,5 +47,3 @@ I'm the maintainer for <a href="https://cran.r-project.org/web/packages/corpus">
 I am the creator and maintainer of <a href="https://cran.r-project.org/web/packages/zipR/">zipR</a>, which implements Python-style zip().
 
 * Install from CRAN using `install.packages("zipR")`.
-
-* View a <a href="https://leslie-huang.github.io/zipr/zipr_demo.html">demo</a>.
