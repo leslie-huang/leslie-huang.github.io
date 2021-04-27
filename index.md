@@ -3,7 +3,7 @@ layout: page
 ---
 __News__, April 2021:
 
-:tada: I defended my dissertation, "Understanding Political Communication with Contextualized Methods from Natural Language Processing"! :tada:
+🎉 I defended my dissertation, "Understanding Political Communication with Contextualized Methods from Natural Language Processing"! 🎉
 
 I am the first person to successfully defend a PhD dissertation in Data Science at <a href="cds.nyu.edu/">NYU's Center for Data Science</a>.
 
