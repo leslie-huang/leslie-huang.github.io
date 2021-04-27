@@ -6,7 +6,7 @@ permalink: /papers/
 
 # Dissertation
 
-#### "Three Essays on Contextual Natural Language Processing Methods for Understanding Political Communication" (working title)
+#### "Understanding Political Communication with Contextualized Methods from Natural Language Processing"
 
 I am incredibly fortunate to have an interdisciplinary committee to advise me on my interdisciplinary research: <a href="https://www.nyu.edu/projects/spirling/">Arthur Spirling (chair)</a>, <a href="https://www.nyu.edu/projects/bowman/">Sam Bowman</a>, <a href="http://www.kyunghyuncho.me/">Kyunghyun Cho</a>, <a href="http://as.nyu.edu/content/nyu-as/as/faculty/jonathan-nagler.html">Jonathan Nagler</a>, and <a href="https://scholar.princeton.edu/bstewart/home">Brandon Stewart</a>.
 
