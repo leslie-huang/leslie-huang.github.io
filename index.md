@@ -2,8 +2,6 @@
 layout: page
 ---
 
-## About me
-
 I am a AI research engineer at <a href="https://www.techatbloomberg.com/ai/">Bloomberg LP</a>. I have a PhD in Data Science from NYU, where I was the first person ever to defend a dissertation at the <a href="cds.nyu.edu/">Center for Data Science</a>.
 
 My research interests include estimation methods for text, transfer learning, and NLP applications to political communication. I hold a BA, summa cum laude, in English literature and political science from Columbia University, and a MA in political science and a MPhil in data science from NYU. For details about my professional experience, visit my <a href="https://www.linkedin.com/in/huangleslie/">LinkedIn</a>.
